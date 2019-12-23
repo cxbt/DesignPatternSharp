@@ -21,7 +21,7 @@ namespace DesignPatternSharp.Builder
                 string result = textbuilder.getResult();
                 Console.WriteLine(result);
             }
-            else if(args[0].Equals("html"))
+            else if (args[0].Equals("html"))
             {
                 HTMLBuilder htmlbuilder = new HTMLBuilder();
                 Director director = new Director(htmlbuilder);
