@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Builder.Main.Run(args);
+            AbstractFactory.Main.Run(args);
         }
     }
 }
