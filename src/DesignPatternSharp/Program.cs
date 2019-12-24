@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Bridge.Main.Run();
+            Strategy.Main.Run(args);
         }
     }
 }
