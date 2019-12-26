@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Strategy.Main.Run(args);
+            Composite.Main.Run();
         }
     }
 }
