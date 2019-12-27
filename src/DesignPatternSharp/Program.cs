@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Decorator.Main.Run();
+            Visitor.Main.Run();
         }
     }
 }
