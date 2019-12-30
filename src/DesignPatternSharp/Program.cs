@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Visitor.Main.Run();
+            ChainOfResponsibility.Main.Run();
         }
     }
 }
