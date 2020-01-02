@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Observer.Main.Run();
+            Memento.Main.Run();
         }
     }
 }
