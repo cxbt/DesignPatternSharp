@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            FlyWeight.Main.Run(args);
+            Proxy.Main.Run();
         }
     }
 }
