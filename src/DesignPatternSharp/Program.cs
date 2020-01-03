@@ -6,7 +6,7 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Memento.Main.Run();
+            FlyWeight.Main.Run(args);
         }
     }
 }
