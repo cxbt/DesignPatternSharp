@@ -23,9 +23,9 @@
 - **Facade**, 단순한 창구
 - Mediator, 중개인을 통해서 처리하기
 - **Observer**, 상태의 변화를 알려주기
-- Memento, 상태를 저장하기
+- **Memento**, 상태를 저장하기
 - State, 상태를 클래스로 표현하기
-- Flyweight, 동일한 것을 공유해서 낭비 없애기
-- Proxy, 필요해지면 만들기
+- **Flyweight**, 동일한 것을 공유해서 낭비 없애기
+- **Proxy**, 필요해지면 만들기
 - Command, 명령을 클래스로 하기
 - Interpreter, 문법 규칙을 클래스로 표현하기
