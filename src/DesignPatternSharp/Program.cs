@@ -6,7 +6,8 @@ namespace DesignPatternSharp
     {
         static void Main(string[] args)
         {
-            Proxy.Main.Run();
+            // <Design Pattern>.Main.Run();
+            Interpreter.Main.Run();
         }
     }
 }
